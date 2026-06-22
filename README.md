@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED JINSHAD KP</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst</h3>
+<h3 align="center"> Data Scientist | Machine Learning Enthusiast | Data Analyst</h3>
 
 <p align="center">
   Passionate about transforming data into actionable insights through Machine Learning, Data Analytics, and Artificial Intelligence.
